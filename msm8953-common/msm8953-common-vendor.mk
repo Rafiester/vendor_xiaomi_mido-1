@@ -605,5 +605,4 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     dpmserviceapp \
     ims \
-    WfdCommon \
-    chargeonlymode
+    WfdCommon
